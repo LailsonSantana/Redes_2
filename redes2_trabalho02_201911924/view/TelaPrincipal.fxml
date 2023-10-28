@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="670.0" style="-fx-background-color: #b4cfe9;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Line endX="476.0" endY="159.0" layoutX="2.0" layoutY="36.0" startX="145.0" startY="159.0" strokeType="OUTSIDE" />
+      <Line endX="-90.0" endY="5.0" layoutX="236.0" layoutY="191.0" startX="-146.0" startY="114.0" strokeType="OUTSIDE" />
+      <Line endX="102.0" endY="-4.0" layoutX="325.0" layoutY="330.0" startX="-74.0" startY="-4.0" strokeType="OUTSIDE" />
+      <Line endX="74.0" endY="286.0" layoutX="12.0" layoutY="46.0" startX="123.95587158203125" startY="400.0" strokeType="OUTSIDE" />
+      <Line endX="432.0" endY="226.0" layoutX="-1.0" layoutY="90.0" startX="506.0" startY="108.0" strokeType="OUTSIDE" />
+      <Line endX="185.0" endY="400.0" layoutX="52.0" layoutY="-89.0" startX="78.0" startY="278.0" strokeType="OUTSIDE" />
+      <Line endX="362.0" endY="516.0" layoutX="167.0" layoutY="-70.0" startX="427.0" startY="402.0" strokeType="OUTSIDE" />
+      <Line endX="568.0" endY="248.0" layoutX="22.0" layoutY="56.0" startX="503.0" startY="129.0" strokeType="OUTSIDE" />
+      <Line endX="101.0" endY="386.0" layoutX="42.0" layoutY="76.0" startX="450.0" startY="386.0" strokeType="OUTSIDE" />
+      <Line endX="113.95587158203125" endY="405.0" layoutX="22.0" layoutY="56.0" startX="206.0" startY="277.0" strokeType="OUTSIDE" />
+      <Line endX="477.0" endY="382.0" layoutX="32.0" layoutY="66.0" startX="408.0" startY="274.0" strokeType="OUTSIDE" />
+      <ImageView fx:id="imgRouter5" fitHeight="50.0" fitWidth="70.0" layoutX="202.0" layoutY="301.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRouter3" fitHeight="50.0" fitWidth="70.0" layoutX="472.0" layoutY="166.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRouter2" fitHeight="50.0" fitWidth="70.0" layoutX="102.0" layoutY="166.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRouter1" fitHeight="50.0" fitWidth="70.0" layoutX="47.0" layoutY="301.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRouter4" fitHeight="50.0" fitWidth="70.0" layoutX="557.0" layoutY="301.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRouter7" fitHeight="50.0" fitWidth="70.0" layoutX="102.0" layoutY="436.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRouter6" cache="true" fitHeight="50.0" fitWidth="70.0" layoutX="402.0" layoutY="301.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+         <effect>
+            <ColorAdjust />
+         </effect>
+      </ImageView>
+      <ImageView fx:id="imgRouter8" fitHeight="50.0" fitWidth="70.0" layoutX="472.0" layoutY="436.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../router.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="28.0" layoutY="326.0" strokeType="OUTSIDE" strokeWidth="0.0" text="A">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="127.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="B">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="501.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="C">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="234.0" layoutY="294.0" strokeType="OUTSIDE" strokeWidth="0.0" text="E">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="631.0" layoutY="327.0" strokeType="OUTSIDE" strokeWidth="0.0" text="D" wrappingWidth="8.052734375">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="132.0" layoutY="501.0" strokeType="OUTSIDE" strokeWidth="0.0" text="G">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="505.0" layoutY="500.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="427.0" layoutY="293.0" strokeType="OUTSIDE" strokeWidth="0.0" text="F" wrappingWidth="16.414215087890625">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="98.0" layoutY="256.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="98.0" layoutY="399.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="317.0" layoutY="193.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="195.0" layoutY="256.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="452.0" layoutY="255.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="569.0" layoutY="255.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="569.0" layoutY="397.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="195.0" layoutY="397.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="335.0" layoutY="318.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="456.0" layoutY="399.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="313.0" layoutY="476.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Button layoutX="277.0" layoutY="541.0" mnemonicParsing="false" onAction="#newSimulation" style="-fx-background-color: #000000;" text="NEW SIMULATION" textFill="#f5f5f5">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Text layoutX="199.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Roteamento Pelo Caminho Mais Curto">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="249.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Selecione a origem e o destino" textAlignment="CENTER" wrappingWidth="136.16796875">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text layoutX="455.0" layoutY="551.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clique aqui para simular novamente" textAlignment="CENTER" wrappingWidth="136.16796875">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Text>
+      <ImageView fx:id="imgSeta" fitHeight="41.0" fitWidth="68.0" layoutX="409.0" layoutY="535.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../seta.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
